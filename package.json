@@ -1,0 +1,12 @@
+{
+  "name": "aternos-bedrock-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.42.0",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
